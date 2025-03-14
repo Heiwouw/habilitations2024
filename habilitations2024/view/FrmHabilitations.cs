@@ -254,9 +254,5 @@ namespace habilitations2024.view
             txtPwd2.Text = "";
         }
 
-        private void FrmHabilitations_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

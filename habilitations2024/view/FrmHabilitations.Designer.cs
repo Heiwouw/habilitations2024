@@ -325,7 +325,6 @@
             this.Controls.Add(this.grbLesDeveloppeurs);
             this.Name = "FrmHabilitations";
             this.Text = "Habilitations";
-            this.Load += new System.EventHandler(this.FrmHabilitations_Load);
             this.grbPwd.ResumeLayout(false);
             this.grbPwd.PerformLayout();
             this.grbDeveloppeur.ResumeLayout(false);
